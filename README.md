@@ -1,6 +1,6 @@
 # Software Update Interface (CAN Bus)
 
-A desktop-based **Host Controller Interface** designed to manage firmware updates for STM32 microcontrollers using the **Custom CAN Protocol**.
+A desktop-based **Host Controller Interface** designed to manage firmware updates for STM32 microcontrollers using a **Custom CAN Protocol**.
 
 This tool serves as the transmitter side of the update process, providing a user-friendly way to send firmware packets, monitor progress, and verify integrity.
 
@@ -27,11 +27,11 @@ This interface is the primary tool for interacting with the [STM32F429ZIT6 Bootl
 
 ## 🔌 Communication & Message Flow
 
-The interaction between this interface and the MCU follows a specific sequence to ensure data integrity. Below is the message flow logic:
+The interaction between this interface and the MCU follows a specific sequence to ensure data integrity. 
 
-![Message Sequence Diagram](BootloaderEN.drawio)
+![Message Sequence Diagram](Documents/BootloaderEN.png)
 
-*For detailed protocol specifications, please refer to the documentation in the target firmware repository.*
+> **Note:** To view or edit the raw logic, see the [Documents/BootloaderEN.drawio](Documents/BootloaderEN.drawio) file.
 
 ---
 
@@ -56,17 +56,19 @@ To use this interface, a **Serial-to-CAN Converter** is typically required to br
 
 ---
 
+## 🧪 Testing & Demo Binaries
+
+For quick verification and testing, two sample firmware files are provided in this repository:
+
+* **`STM32F429ZIT6_Slow_Led_Blink.bin`**: A test firmware that blinks the onboard LED at a low frequency.
+* **`STM32F429ZIT6_Fast_Led_Blink.bin`**: A test firmware that blinks the onboard LED at a high frequency.
+
+These can be used to verify the success of the flash process by observing the change in LED behavior on the target hardware.
+
+---
+
 ## 🔗 Related Project
 
 This interface is specifically designed to work in tandem with the following firmware:
 
 > 🦾 **Target Firmware:** [STM32F429ZIT6 CAN Bootloader](https://github.com/erenozkan94/STM32F429ZIT6_Bootloader)
-
----
-
-## 🧪 Testing & Verification
-
-The interface has been tested for:
-* **Packet Accuracy:** Ensuring zero data loss during high-speed CAN streaming.
-* **UI Responsiveness:** Maintaining stability during long flash write cycles.
-* **Crash Recovery:** Handling unexpected disconnects during the update process.
