@@ -29,7 +29,7 @@ This interface is the primary tool for interacting with the [STM32F429ZIT6 Bootl
 
 The interaction between this interface and the MCU follows a specific sequence to ensure data integrity. Below is the message flow logic:
 
-![Message Sequence Diagram](Documents/BootloaderEN.drawio)
+![Message Sequence Diagram](BootloaderEN.drawio)
 
 *For detailed protocol specifications, please refer to the documentation in the target firmware repository.*
 
