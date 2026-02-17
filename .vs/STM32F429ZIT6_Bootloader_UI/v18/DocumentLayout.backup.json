@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\RFTRYazilim\\Desktop\\STM32F429ZIT6_Bootloader_UI\\",
+  "WorkspaceRootPath": "C:\\Users\\RFTRYazilim\\Desktop\\ForkFile\\Software_Update_Interface\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65D46F89-33E8-4322-810A-33FFD328984D}|STM32F429ZIT6_Bootloader_UI\\STM32F429ZIT6_Bootloader_UI.csproj|c:\\users\\rftryazilim\\desktop\\stm32f429zit6_bootloader_ui\\stm32f429zit6_bootloader_ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65D46F89-33E8-4322-810A-33FFD328984D}|STM32F429ZIT6_Bootloader_UI\\STM32F429ZIT6_Bootloader_UI.csproj|c:\\users\\rftryazilim\\desktop\\forkfile\\software_update_interface\\stm32f429zit6_bootloader_ui\\splashscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65D46F89-33E8-4322-810A-33FFD328984D}|STM32F429ZIT6_Bootloader_UI\\STM32F429ZIT6_Bootloader_UI.csproj|solutionrelative:stm32f429zit6_bootloader_ui\\splashscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D46F89-33E8-4322-810A-33FFD328984D}|STM32F429ZIT6_Bootloader_UI\\STM32F429ZIT6_Bootloader_UI.csproj|C:\\Users\\RFTRYazilim\\Desktop\\ForkFile\\Software_Update_Interface\\stm32f429zit6_bootloader_ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65D46F89-33E8-4322-810A-33FFD328984D}|STM32F429ZIT6_Bootloader_UI\\STM32F429ZIT6_Bootloader_UI.csproj|solutionrelative:stm32f429zit6_bootloader_ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65D46F89-33E8-4322-810A-33FFD328984D}|STM32F429ZIT6_Bootloader_UI\\STM32F429ZIT6_Bootloader_UI.csproj|C:\\Users\\RFTRYazilim\\Desktop\\STM32F429ZIT6_Bootloader_UI\\stm32f429zit6_bootloader_ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{65D46F89-33E8-4322-810A-33FFD328984D}|STM32F429ZIT6_Bootloader_UI\\STM32F429ZIT6_Bootloader_UI.csproj|C:\\Users\\RFTRYazilim\\Desktop\\ForkFile\\Software_Update_Interface\\stm32f429zit6_bootloader_ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{65D46F89-33E8-4322-810A-33FFD328984D}|STM32F429ZIT6_Bootloader_UI\\STM32F429ZIT6_Bootloader_UI.csproj|solutionrelative:stm32f429zit6_bootloader_ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -43,23 +47,34 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\RFTRYazilim\\Desktop\\STM32F429ZIT6_Bootloader_UI\\STM32F429ZIT6_Bootloader_UI\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "STM32F429ZIT6_Bootloader_UI\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\RFTRYazilim\\Desktop\\STM32F429ZIT6_Bootloader_UI\\STM32F429ZIT6_Bootloader_UI\\MainWindow.xaml.cs",
-              "RelativeToolTip": "STM32F429ZIT6_Bootloader_UI\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAkCAAAAAAAAAAAowC4CAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T09:40:41.607Z",
+              "Title": "SplashScreen.xaml",
+              "DocumentMoniker": "C:\\Users\\RFTRYazilim\\Desktop\\ForkFile\\Software_Update_Interface\\STM32F429ZIT6_Bootloader_UI\\SplashScreen.xaml",
+              "RelativeDocumentMoniker": "STM32F429ZIT6_Bootloader_UI\\SplashScreen.xaml",
+              "ToolTip": "C:\\Users\\RFTRYazilim\\Desktop\\ForkFile\\Software_Update_Interface\\STM32F429ZIT6_Bootloader_UI\\SplashScreen.xaml",
+              "RelativeToolTip": "STM32F429ZIT6_Bootloader_UI\\SplashScreen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-17T11:14:33.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\RFTRYazilim\\Desktop\\ForkFile\\Software_Update_Interface\\STM32F429ZIT6_Bootloader_UI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "STM32F429ZIT6_Bootloader_UI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\RFTRYazilim\\Desktop\\ForkFile\\Software_Update_Interface\\STM32F429ZIT6_Bootloader_UI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "STM32F429ZIT6_Bootloader_UI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwCAAAAAAAAAAAowBkCAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T09:40:41.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\RFTRYazilim\\Desktop\\STM32F429ZIT6_Bootloader_UI\\STM32F429ZIT6_Bootloader_UI\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\RFTRYazilim\\Desktop\\ForkFile\\Software_Update_Interface\\STM32F429ZIT6_Bootloader_UI\\MainWindow.xaml",
               "RelativeDocumentMoniker": "STM32F429ZIT6_Bootloader_UI\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\RFTRYazilim\\Desktop\\STM32F429ZIT6_Bootloader_UI\\STM32F429ZIT6_Bootloader_UI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\RFTRYazilim\\Desktop\\ForkFile\\Software_Update_Interface\\STM32F429ZIT6_Bootloader_UI\\MainWindow.xaml",
               "RelativeToolTip": "STM32F429ZIT6_Bootloader_UI\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-02-17T08:56:44.336Z"

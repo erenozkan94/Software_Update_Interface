@@ -149,14 +149,12 @@
     <Resource Include="logo.ico" />
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="LogoNew.ico" />
+  </ItemGroup>
+  <ItemGroup>
     <Resource Include="Images\LogoNew.ico" />
     <Resource Include="Images\LogoNew.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="Images\LogoNewLoginPage.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="LogoNew.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
