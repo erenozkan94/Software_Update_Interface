@@ -1,0 +1,20 @@
+﻿<Window x:Class="UI_5_10KW.SplashScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI_5_10KW"
+        mc:Ignorable="d"
+        Title="AccessControlSS" Height="180.368" Width="331.757" WindowStyle="None" WindowStartupLocation="CenterScreen" Background="{x:Null}" AllowsTransparency="True">
+    <Grid>
+        <Border CornerRadius="20" HorizontalAlignment="Left" Height="180.368" VerticalAlignment="Top" Width="331.757" Background="#FF0F141A">
+            <Canvas Margin="-1">
+                <Label Content="RFTR" HorizontalAlignment="Center" VerticalAlignment="Top" Foreground="White" FontSize="20" Canvas.Left="142" Canvas.Top="54" FontWeight="Bold"/>
+                <Label Content="5-10 Kw UI" HorizontalAlignment="Center" VerticalAlignment="Top" Foreground="White" FontSize="20" Canvas.Left="142" Canvas.Top="86"/>
+                <Label Content="V0.0.1" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" FontSize="10" Canvas.Left="275" Canvas.Top="145"/>
+                <Image HorizontalAlignment="Left" Source="Images/LogoNewLoginPage.png" Height="65" VerticalAlignment="Top" Width="68" StretchDirection="UpOnly" Canvas.Top="58" Canvas.Left="53" Stretch="UniformToFill"/>
+
+            </Canvas>
+        </Border>
+    </Grid>
+</Window>

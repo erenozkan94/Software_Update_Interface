@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 18
+VisualStudioVersion = 18.0.11205.157 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STM32F429ZIT6_Bootloader_UI", "STM32F429ZIT6_Bootloader_UI\STM32F429ZIT6_Bootloader_UI.csproj", "{65D46F89-33E8-4322-810A-33FFD328984D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65D46F89-33E8-4322-810A-33FFD328984D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D46F89-33E8-4322-810A-33FFD328984D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D46F89-33E8-4322-810A-33FFD328984D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D46F89-33E8-4322-810A-33FFD328984D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E45B511C-64A8-4F99-97D9-7372082CB888}
+	EndGlobalSection
+EndGlobal

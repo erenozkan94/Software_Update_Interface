@@ -1,0 +1,588 @@
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.AssemblyReference.cache
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\MainWindow.g.cs
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\SplashScreen.g.cs
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\App.g.cs
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.cache
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.lref
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\UI_5_10KW.exe.config
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\UI_5_10KW.exe
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\UI_5_10KW.pdb
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\App.baml
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\MainWindow.baml
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\SplashScreen.baml
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW.g.resources
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI.Properties.Resources.resources
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.GenerateResource.cache
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.CoreCompileInputs.cache
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.Up2Date
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW.exe
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW.pdb
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\UI_5_10KW.exe.config
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\UI_5_10KW.exe
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\UI_5_10KW.pdb
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.AssemblyReference.cache
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\MainWindow.g.cs
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\SplashScreen.g.cs
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\App.g.cs
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.cache
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.lref
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\App.baml
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\MainWindow.baml
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\SplashScreen.baml
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\UI_5_10KW.g.resources
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\UI.Properties.Resources.resources
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.GenerateResource.cache
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.CoreCompileInputs.cache
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.Up2Date
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\UI_5_10KW.exe
+C:\Users\ereno\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\UI_5_10KW.pdb
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\UI_5_10KW.exe.config
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\UI_5_10KW.exe
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\UI_5_10KW.pdb
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.AssemblyReference.cache
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\MainWindow.g.cs
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\SplashScreen.g.cs
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\App.g.cs
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.cache
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.lref
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\App.baml
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\MainWindow.baml
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\SplashScreen.baml
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW.g.resources
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI.Properties.Resources.resources
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.GenerateResource.cache
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.CoreCompileInputs.cache
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.Up2Date
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW.exe
+C:\Users\eren.ozkan\Desktop\UI_5-10KW\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW.pdb
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.AssemblyReference.cache
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\MainWindow.g.cs
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\SplashScreen.g.cs
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\App.g.cs
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.cache
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.lref
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW.exe
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW.pdb
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\UI_5_10KW.exe.config
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\UI_5_10KW.exe
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\UI_5_10KW.pdb
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\App.baml
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\MainWindow.baml
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\SplashScreen.baml
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW.g.resources
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI.Properties.Resources.resources
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.GenerateResource.cache
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.CoreCompileInputs.cache
+C:\Users\ereno\Desktop\UI_5-10KW_V0.0.2\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.Up2Date
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\UI_5_10KW.exe.config
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\UI_5_10KW.exe
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\UI_5_10KW.pdb
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.AssemblyReference.cache
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\MainWindow.g.cs
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\SplashScreen.g.cs
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\App.g.cs
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.cache
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.lref
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\App.baml
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\MainWindow.baml
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\SplashScreen.baml
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\UI_5_10KW.g.resources
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\UI.Properties.Resources.resources
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.GenerateResource.cache
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.CoreCompileInputs.cache
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.Up2Date
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\UI_5_10KW.exe
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW\UI_5-10KW_V0.0.3\UI_5_10KW\obj\Debug\UI_5_10KW.pdb
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.AssemblyReference.cache
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\obj\Debug\MainWindow.g.cs
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\obj\Debug\SplashScreen.g.cs
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\obj\Debug\App.g.cs
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.cache
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.lref
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\obj\Debug\UI_5_10KW.exe
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\obj\Debug\UI_5_10KW.pdb
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\UI_5_10KW.exe.config
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\UI_5_10KW.exe
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\UI_5_10KW.pdb
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\obj\Debug\App.baml
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\obj\Debug\MainWindow.baml
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\obj\Debug\SplashScreen.baml
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\obj\Debug\UI_5_10KW.g.resources
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\obj\Debug\UI.Properties.Resources.resources
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.GenerateResource.cache
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.CoreCompileInputs.cache
+C:\Users\RFTRYazilim\Desktop\UI_5-10KW_V0.0.5 Yeni ICD\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.Up2Date
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.AssemblyReference.cache
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\obj\Debug\MainWindow.g.cs
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\obj\Debug\SplashScreen.g.cs
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\obj\Debug\App.g.cs
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.cache
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.lref
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\obj\Debug\UI_5_10KW.exe
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\obj\Debug\UI_5_10KW.pdb
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\UI_5_10KW.exe.config
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\UI_5_10KW.exe
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\UI_5_10KW.pdb
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\obj\Debug\App.baml
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\obj\Debug\MainWindow.baml
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\obj\Debug\SplashScreen.baml
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\obj\Debug\UI_5_10KW.g.resources
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\obj\Debug\UI.Properties.Resources.resources
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.GenerateResource.cache
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.CoreCompileInputs.cache
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.6 Yeni ICD + Test\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.Up2Date
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\UI_5_10KW.exe.config
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\UI_5_10KW.exe
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\UI_5_10KW.pdb
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.AssemblyReference.cache
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\obj\Debug\MainWindow.g.cs
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\obj\Debug\SplashScreen.g.cs
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\obj\Debug\App.g.cs
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.cache
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.lref
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\obj\Debug\App.baml
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\obj\Debug\MainWindow.baml
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\obj\Debug\SplashScreen.baml
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\obj\Debug\UI_5_10KW.g.resources
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\obj\Debug\UI.Properties.Resources.resources
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.GenerateResource.cache
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.CoreCompileInputs.cache
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.Up2Date
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\obj\Debug\UI_5_10KW.exe
+C:\Users\RFTRYazilim\Desktop\5-10Kw\UI_5-10KW_V0.0.7\UI_5_10KW\obj\Debug\UI_5_10KW.pdb
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\UI_5_10KW.exe.config
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\UI_5_10KW.exe
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\UI_5_10KW.pdb
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.AssemblyReference.cache
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\obj\Debug\MainWindow.g.cs
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\obj\Debug\SplashScreen.g.cs
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\obj\Debug\App.g.cs
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.cache
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.lref
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\obj\Debug\App.baml
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\obj\Debug\MainWindow.baml
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\obj\Debug\SplashScreen.baml
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\obj\Debug\UI_5_10KW.g.resources
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\obj\Debug\UI.Properties.Resources.resources
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.GenerateResource.cache
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.CoreCompileInputs.cache
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.Up2Date
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\obj\Debug\UI_5_10KW.exe
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.8\UI_5_10KW\obj\Debug\UI_5_10KW.pdb
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\UI_5_10KW.exe.config
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\UI_5_10KW.exe
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\UI_5_10KW.pdb
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.AssemblyReference.cache
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\MainWindow.g.cs
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\SplashScreen.g.cs
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\App.g.cs
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.cache
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.lref
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\App.baml
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\MainWindow.baml
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\SplashScreen.baml
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\UI_5_10KW.g.resources
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\UI.Properties.Resources.resources
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.GenerateResource.cache
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.CoreCompileInputs.cache
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.Up2Date
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\UI_5_10KW.exe
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\UI_5_10KW.pdb
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\UI_5_10KW.exe.config
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\UI_5_10KW.exe
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\UI_5_10KW.pdb
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\UI_5_10KW.csprojAssemblyReference.cache
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\MainWindow.g.cs
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\SplashScreen.g.cs
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\App.g.cs
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.cache
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.lref
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\App.baml
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\MainWindow.baml
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\SplashScreen.baml
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\UI_5_10KW.g.resources
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\UI.Properties.Resources.resources
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.GenerateResource.cache
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.CoreCompileInputs.cache
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.CopyComplete
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\UI_5_10KW.exe
+C:\Users\osman.tandir\Desktop\UI_5-10KW_V0.0.9\UI_5_10KW\obj\Debug\UI_5_10KW.pdb
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\UI_5_10KW.exe.config
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\UI_5_10KW.exe
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\UI_5_10KW.pdb
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.AssemblyReference.cache
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\obj\Debug\MainWindow.g.cs
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\obj\Debug\SplashScreen.g.cs
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\obj\Debug\App.g.cs
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.cache
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.lref
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\obj\Debug\App.baml
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\obj\Debug\MainWindow.baml
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\obj\Debug\SplashScreen.baml
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\obj\Debug\UI_5_10KW.g.resources
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\obj\Debug\UI.Properties.Resources.resources
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.GenerateResource.cache
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.CoreCompileInputs.cache
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.Up2Date
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\obj\Debug\UI_5_10KW.exe
+C:\Users\eren.ozkan\Desktop\UI_5-10 Kw\UI_5-10KW_V0.0.10\UI_5_10KW\obj\Debug\UI_5_10KW.pdb
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\UI_5_10KW.exe.config
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\UI_5_10KW.exe
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\UI_5_10KW.pdb
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.AssemblyReference.cache
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\obj\Debug\MainWindow.g.cs
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\obj\Debug\SplashScreen.g.cs
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\obj\Debug\App.g.cs
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.cache
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.lref
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\obj\Debug\App.baml
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\obj\Debug\MainWindow.baml
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\obj\Debug\SplashScreen.baml
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\obj\Debug\UI_5_10KW.g.resources
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\obj\Debug\UI.Properties.Resources.resources
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.GenerateResource.cache
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.CoreCompileInputs.cache
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.Up2Date
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\obj\Debug\UI_5_10KW.exe
+C:\Users\eren.ozkan\Desktop\Fork File\UI_5-10kW\UI_5_10KW\obj\Debug\UI_5_10KW.pdb
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\UI_5_10KW.exe.config
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\UI_5_10KW.exe
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\UI_5_10KW.pdb
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.AssemblyReference.cache
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\obj\Debug\MainWindow.g.cs
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\obj\Debug\SplashScreen.g.cs
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\obj\Debug\App.g.cs
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.cache
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\obj\Debug\UI_5_10KW_MarkupCompile.lref
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\obj\Debug\App.baml
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\obj\Debug\MainWindow.baml
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\obj\Debug\SplashScreen.baml
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\obj\Debug\UI_5_10KW.g.resources
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\obj\Debug\UI.Properties.Resources.resources
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.GenerateResource.cache
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.CoreCompileInputs.cache
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\obj\Debug\UI_5_10KW.csproj.Up2Date
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\obj\Debug\UI_5_10KW.exe
+C:\Users\RFTRYazilim\Desktop\UI_5-10kW\UI_5_10KW\obj\Debug\UI_5_10KW.pdb

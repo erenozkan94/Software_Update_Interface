@@ -1,0 +1,526 @@
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\obj\Debug\ABBUI.csproj.AssemblyReference.cache
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\obj\Debug\ABBUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\obj\Debug\MainWindow.g.cs
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\obj\Debug\App.g.cs
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\MySql.Data.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\Google.Protobuf.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\ZstdNet.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\System.Buffers.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\MySql.Data.xml
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\obj\Debug\App.baml
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\obj\Debug\MainWindow.baml
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\obj\Debug\ABBUI.csproj.GenerateResource.cache
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\obj\Debug\ABBUI.csproj.CoreCompileInputs.cache
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\obj\Debug\ABBUI.csproj.Up2Date
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\obj\Debug\LoginPage.g.cs
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\AABUI.exe.config
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\AABUI.exe
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\bin\Debug\AABUI.pdb
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\obj\Debug\AABUI.exe.config
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\obj\Debug\AABUI_MarkupCompile.cache
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\obj\Debug\AABUI_MarkupCompile.lref
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\obj\Debug\LoginPage.baml
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\obj\Debug\AABUI.g.resources
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\obj\Debug\AABUI.Properties.Resources.resources
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\obj\Debug\AABUI.exe
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\obj\Debug\AABUI.pdb
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\obj\Debug\SplashScreen.g.cs
+C:\Users\eren.ozkan\Desktop\ABB UI\ABBUI\obj\Debug\SplashScreen.baml
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\AABUI.exe.config
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\AABUI.exe
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\AABUI.pdb
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI\ABBUI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI\ABBUI\obj\Debug\ABBUI.csproj.AssemblyReference.cache
+C:\Users\ereno\Desktop\AAB UI\ABBUI\obj\Debug\ChangePassword.g.cs
+C:\Users\ereno\Desktop\AAB UI\ABBUI\obj\Debug\LoginPage.g.cs
+C:\Users\ereno\Desktop\AAB UI\ABBUI\obj\Debug\MainWindow.g.cs
+C:\Users\ereno\Desktop\AAB UI\ABBUI\obj\Debug\SplashScreen.g.cs
+C:\Users\ereno\Desktop\AAB UI\ABBUI\obj\Debug\App.g.cs
+C:\Users\ereno\Desktop\AAB UI\ABBUI\obj\Debug\AABUI_MarkupCompile.cache
+C:\Users\ereno\Desktop\AAB UI\ABBUI\obj\Debug\AABUI_MarkupCompile.lref
+C:\Users\ereno\Desktop\AAB UI\ABBUI\obj\Debug\App.baml
+C:\Users\ereno\Desktop\AAB UI\ABBUI\obj\Debug\ChangePassword.baml
+C:\Users\ereno\Desktop\AAB UI\ABBUI\obj\Debug\LoginPage.baml
+C:\Users\ereno\Desktop\AAB UI\ABBUI\obj\Debug\MainWindow.baml
+C:\Users\ereno\Desktop\AAB UI\ABBUI\obj\Debug\SplashScreen.baml
+C:\Users\ereno\Desktop\AAB UI\ABBUI\obj\Debug\AABUI.g.resources
+C:\Users\ereno\Desktop\AAB UI\ABBUI\obj\Debug\AABUI.Properties.Resources.resources
+C:\Users\ereno\Desktop\AAB UI\ABBUI\obj\Debug\ABBUI.csproj.GenerateResource.cache
+C:\Users\ereno\Desktop\AAB UI\ABBUI\obj\Debug\ABBUI.csproj.CoreCompileInputs.cache
+C:\Users\ereno\Desktop\AAB UI\ABBUI\obj\Debug\ABBUI.csproj.Up2Date
+C:\Users\ereno\Desktop\AAB UI\ABBUI\obj\Debug\AABUI.exe
+C:\Users\ereno\Desktop\AAB UI\ABBUI\obj\Debug\AABUI.pdb
+C:\Users\ereno\Desktop\AAB UI\ABBUI\obj\Debug\AABUI.exe.config
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\AABUI.exe.config
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\AABUI.exe
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\AABUI.pdb
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\obj\Debug\ABBUI.csproj.AssemblyReference.cache
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\obj\Debug\AABUI.exe.config
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\obj\Debug\ChangePassword.g.cs
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\obj\Debug\LoginPage.g.cs
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\obj\Debug\MainWindow.g.cs
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\obj\Debug\SplashScreen.g.cs
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\obj\Debug\App.g.cs
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\obj\Debug\AABUI_MarkupCompile.cache
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\obj\Debug\AABUI_MarkupCompile.lref
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\obj\Debug\App.baml
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\obj\Debug\ChangePassword.baml
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\obj\Debug\LoginPage.baml
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\obj\Debug\MainWindow.baml
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\obj\Debug\SplashScreen.baml
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\obj\Debug\AABUI.g.resources
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\obj\Debug\AABUI.Properties.Resources.resources
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\obj\Debug\ABBUI.csproj.GenerateResource.cache
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\obj\Debug\ABBUI.csproj.CoreCompileInputs.cache
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\obj\Debug\ABBUI.csproj.Up2Date
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\obj\Debug\AABUI.exe
+C:\Users\ereno\Desktop\AAB UI V0.0.2\ABBUI\obj\Debug\AABUI.pdb
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\AABUI.exe.config
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\AABUI.exe
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\AABUI.pdb
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\obj\Debug\ABBUI.csproj.AssemblyReference.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\obj\Debug\AABUI.exe.config
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\obj\Debug\ChangePassword.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\obj\Debug\LoginPage.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\obj\Debug\MainWindow.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\obj\Debug\SplashScreen.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\obj\Debug\App.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\obj\Debug\AABUI_MarkupCompile.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\obj\Debug\AABUI_MarkupCompile.lref
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\obj\Debug\App.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\obj\Debug\ChangePassword.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\obj\Debug\LoginPage.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\obj\Debug\MainWindow.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\obj\Debug\SplashScreen.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\obj\Debug\AABUI.g.resources
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\obj\Debug\AABUI.Properties.Resources.resources
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\obj\Debug\ABBUI.csproj.GenerateResource.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\obj\Debug\ABBUI.csproj.CoreCompileInputs.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\obj\Debug\ABBUI.csproj.Up2Date
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\obj\Debug\AABUI.exe
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.2\ABBUI\obj\Debug\AABUI.pdb
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\AABUI.exe.config
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\AABUI.exe
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\AABUI.pdb
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\obj\Debug\ABBUI.csproj.AssemblyReference.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\obj\Debug\AABUI.exe.config
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\obj\Debug\ChangePassword.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\obj\Debug\LoginPage.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\obj\Debug\MainWindow.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\obj\Debug\SplashScreen.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\obj\Debug\App.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\obj\Debug\AABUI_MarkupCompile.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\obj\Debug\AABUI_MarkupCompile.lref
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\obj\Debug\App.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\obj\Debug\ChangePassword.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\obj\Debug\LoginPage.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\obj\Debug\MainWindow.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\obj\Debug\SplashScreen.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\obj\Debug\AABUI.g.resources
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\obj\Debug\AABUI.Properties.Resources.resources
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\obj\Debug\ABBUI.csproj.GenerateResource.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\obj\Debug\ABBUI.csproj.CoreCompileInputs.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\obj\Debug\ABBUI.csproj.Up2Date
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\obj\Debug\AABUI.exe
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.3 Backend Çalışıldı\ABBUI\obj\Debug\AABUI.pdb
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\AABUI.exe.config
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\AABUI.exe
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\AABUI.pdb
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\obj\Debug\ABBUI.csproj.AssemblyReference.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\obj\Debug\AABUI.exe.config
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\obj\Debug\ChangePassword.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\obj\Debug\LoginPage.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\obj\Debug\MainWindow.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\obj\Debug\SplashScreen.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\obj\Debug\App.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\obj\Debug\AABUI_MarkupCompile.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\obj\Debug\AABUI_MarkupCompile.lref
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\obj\Debug\App.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\obj\Debug\ChangePassword.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\obj\Debug\LoginPage.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\obj\Debug\MainWindow.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\obj\Debug\SplashScreen.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\obj\Debug\AABUI.g.resources
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\obj\Debug\AABUI.Properties.Resources.resources
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\obj\Debug\ABBUI.csproj.GenerateResource.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\obj\Debug\ABBUI.csproj.CoreCompileInputs.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\obj\Debug\ABBUI.csproj.Up2Date
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\obj\Debug\AABUI.exe
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.5\ABBUI\obj\Debug\AABUI.pdb
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\AABUI.exe.config
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\AABUI.exe
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\AABUI.pdb
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\obj\Debug\ABBUI.csproj.AssemblyReference.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\obj\Debug\ChangePassword.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\obj\Debug\LoginPage.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\obj\Debug\MainWindow.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\obj\Debug\SplashScreen.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\obj\Debug\App.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\obj\Debug\AABUI_MarkupCompile.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\obj\Debug\AABUI_MarkupCompile.lref
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\obj\Debug\App.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\obj\Debug\ChangePassword.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\obj\Debug\LoginPage.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\obj\Debug\MainWindow.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\obj\Debug\SplashScreen.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\obj\Debug\AABUI.g.resources
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\obj\Debug\AABUI.Properties.Resources.resources
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\obj\Debug\ABBUI.csproj.GenerateResource.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\obj\Debug\ABBUI.csproj.CoreCompileInputs.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\obj\Debug\ABBUI.csproj.Up2Date
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\obj\Debug\AABUI.exe
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\obj\Debug\AABUI.pdb
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.6\ABBUI\obj\Debug\AABUI.exe.config
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\obj\Debug\ABBUI.csproj.AssemblyReference.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\obj\Debug\AABUI.exe.config
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\obj\Debug\ChangePassword.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\obj\Debug\LoginPage.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\obj\Debug\MainWindow.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\obj\Debug\SplashScreen.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\obj\Debug\App.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\obj\Debug\AABUI_MarkupCompile.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\obj\Debug\AABUI_MarkupCompile.lref
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\obj\Debug\AABUI.exe
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\obj\Debug\AABUI.pdb
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\AABUI.exe.config
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\AABUI.exe
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\AABUI.pdb
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\obj\Debug\App.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\obj\Debug\ChangePassword.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\obj\Debug\LoginPage.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\obj\Debug\MainWindow.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\obj\Debug\SplashScreen.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\obj\Debug\AABUI.g.resources
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\obj\Debug\AABUI.Properties.Resources.resources
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\obj\Debug\ABBUI.csproj.GenerateResource.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\obj\Debug\ABBUI.csproj.CoreCompileInputs.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.7\ABBUI\obj\Debug\ABBUI.csproj.Up2Date
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\obj\Debug\ABBUI.csproj.AssemblyReference.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\obj\Debug\AABUI.exe.config
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\obj\Debug\ChangePassword.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\obj\Debug\LoginPage.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\obj\Debug\SplashScreen.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\obj\Debug\App.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\obj\Debug\AABUI_MarkupCompile.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\obj\Debug\AABUI_MarkupCompile.lref
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\obj\Debug\AABUI.exe
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\obj\Debug\AABUI.pdb
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\AABUI.exe.config
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\AABUI.exe
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\AABUI.pdb
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\obj\Debug\MainWindow.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\obj\Debug\App.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\obj\Debug\ChangePassword.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\obj\Debug\LoginPage.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\obj\Debug\MainWindow.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\obj\Debug\SplashScreen.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\obj\Debug\AABUI.g.resources
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\obj\Debug\AABUI.Properties.Resources.resources
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\obj\Debug\ABBUI.csproj.GenerateResource.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\obj\Debug\ABBUI.csproj.CoreCompileInputs.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.8\ABBUI\obj\Debug\ABBUI.csproj.Up2Date
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\AABUI.exe.config
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\AABUI.exe
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\AABUI.pdb
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\obj\Debug\ABBUI.csproj.AssemblyReference.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\obj\Debug\ChangePassword.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\obj\Debug\LoginPage.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\obj\Debug\MainWindow.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\obj\Debug\SplashScreen.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\obj\Debug\App.g.cs
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\obj\Debug\AABUI_MarkupCompile.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\obj\Debug\AABUI_MarkupCompile.lref
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\obj\Debug\App.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\obj\Debug\ChangePassword.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\obj\Debug\LoginPage.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\obj\Debug\MainWindow.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\obj\Debug\SplashScreen.baml
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\obj\Debug\AABUI.g.resources
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\obj\Debug\AABUI.Properties.Resources.resources
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\obj\Debug\ABBUI.csproj.GenerateResource.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\obj\Debug\ABBUI.csproj.CoreCompileInputs.cache
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\obj\Debug\ABBUI.csproj.Up2Date
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\obj\Debug\AABUI.exe
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\obj\Debug\AABUI.pdb
+C:\Users\ereno\Desktop\ABB UI\AAB UI V0.0.9\ABBUI\obj\Debug\AABUI.exe.config
+C:\Users\ereno\Desktop\UI_Template\ABBUI\obj\Debug\ABBUI.csproj.AssemblyReference.cache
+C:\Users\ereno\Desktop\UI_Template\ABBUI\obj\Debug\AABUI.exe.config
+C:\Users\ereno\Desktop\UI_Template\ABBUI\obj\Debug\ChangePassword.g.cs
+C:\Users\ereno\Desktop\UI_Template\ABBUI\obj\Debug\LoginPage.g.cs
+C:\Users\ereno\Desktop\UI_Template\ABBUI\obj\Debug\MainWindow.g.cs
+C:\Users\ereno\Desktop\UI_Template\ABBUI\obj\Debug\SplashScreen.g.cs
+C:\Users\ereno\Desktop\UI_Template\ABBUI\obj\Debug\App.g.cs
+C:\Users\ereno\Desktop\UI_Template\ABBUI\obj\Debug\AABUI_MarkupCompile.cache
+C:\Users\ereno\Desktop\UI_Template\ABBUI\obj\Debug\AABUI_MarkupCompile.lref
+C:\Users\ereno\Desktop\UI_Template\ABBUI\obj\Debug\AABUI.exe
+C:\Users\ereno\Desktop\UI_Template\ABBUI\obj\Debug\AABUI.pdb
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\AABUI.exe.config
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\AABUI.exe
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\AABUI.pdb
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_Template\ABBUI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ereno\Desktop\UI_Template\ABBUI\obj\Debug\App.baml
+C:\Users\ereno\Desktop\UI_Template\ABBUI\obj\Debug\ChangePassword.baml
+C:\Users\ereno\Desktop\UI_Template\ABBUI\obj\Debug\LoginPage.baml
+C:\Users\ereno\Desktop\UI_Template\ABBUI\obj\Debug\MainWindow.baml
+C:\Users\ereno\Desktop\UI_Template\ABBUI\obj\Debug\SplashScreen.baml
+C:\Users\ereno\Desktop\UI_Template\ABBUI\obj\Debug\AABUI.g.resources
+C:\Users\ereno\Desktop\UI_Template\ABBUI\obj\Debug\AABUI.Properties.Resources.resources
+C:\Users\ereno\Desktop\UI_Template\ABBUI\obj\Debug\ABBUI.csproj.GenerateResource.cache
+C:\Users\ereno\Desktop\UI_Template\ABBUI\obj\Debug\ABBUI.csproj.CoreCompileInputs.cache
+C:\Users\ereno\Desktop\UI_Template\ABBUI\obj\Debug\ABBUI.csproj.Up2Date
